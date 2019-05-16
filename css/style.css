@@ -1,0 +1,246 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color:rgb(92, 148, 255,0.2);
+}
+
+.logo {
+  background-color: rgb(206, 222, 221, 0.5);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
+  text-align: left;
+  width: 100%;
+  padding: 0.7em 0;
+  box-shadow: 10px 10px;
+  color: rgb(242, 132, 29);
+}
+
+.top {
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 4.5em;
+}
+
+.profile_img {
+  width: 40%;
+  border-radius: 100%
+}
+
+.top h1 {
+  color:rgb(255, 168, 87);
+  font-size: 5em;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 0.8;
+}
+
+.top p {
+  line-height: 0.5;
+  font-size: 2.5em;
+}
+
+/*****************************************about section***************************************************/
+.about {
+  font-family: 'Source Sans Pro', sans-serif;
+  width: 50%;
+  margin: 0 auto;
+  font-size: 2em;
+}
+
+/*************************************SKILLS SECTION CSS*******************************************************/
+.skills {
+  position: relative;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.skills h3 {
+  color:rgb(255, 168, 87);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+}
+
+.skills h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+.html {
+  width: 70%;
+  position: relative;
+  display: inline-block;
+}
+
+.html h4 {
+  padding-left: 7rem;
+  position: relative;
+  display: inline-grid;
+}
+
+.ion-social-html5 {
+  font-size: 2.5rem;
+  position: relative;
+  display: inline-grid;
+}
+
+.css {
+  width: 70%;
+  position: relative;
+  display: inline-block;
+}
+
+.css h4 {
+  margin-right: 3rem;
+  position: relative;
+  display: inline-grid;
+}
+
+.ion-social-css3 {
+  margin-right: 6.8rem;
+  font-size: 2.5rem;
+  position: relative;
+  display: inline-grid;
+}
+
+.SQL {
+  width: 70%;
+  position: relative;
+  display: inline-block;
+}
+
+.SQL h4 {
+  margin-right: 3rem;
+  position: relative;
+  display: inline-grid;
+}
+
+.SQLI {
+  margin-right: 6.8rem;
+  max-height: 2.5rem;
+  position: relative;
+  display: inline-grid;
+}
+
+.cplus {
+  width: 70%;
+  position: relative;
+  display: inline-block;
+}
+
+.cplus h4 {
+  margin-right: 3rem;
+  position: relative;
+  display: inline-grid;
+}
+
+.cplusi {
+  margin-right: 6.8rem;
+  max-height: 2.5rem;
+  position: relative;
+  display: inline-grid;
+}
+
+.TEAM {
+  width: 100% position: relative;
+  display: inline-block;
+}
+
+.TEAM h4 {
+  font-size: 2rem;
+  padding-left: 7rem;
+  position: relative;
+  display: inline-grid;
+}
+
+.TEAMI {
+  margin-left: 7rem;
+  max-height: 2.5rem;
+  position: relative;
+  display: inline-grid;
+}
+
+.SPONSOR {
+  width: 90%;
+  position: relative;
+  display: inline-block;
+}
+
+.SPONSOR h4 {
+  font-size: 2rem;
+  padding-left: 6rem;
+  position: relative;
+  display: inline-grid;
+}
+
+.SPONSORI {
+  padding-right: 1.5rem;
+  margin-left: 7rem;
+  max-height: 2.5rem;
+  position: relative;
+  display: inline-grid;
+}
+
+/*************************************CERTIFICATION SECTION CSS*******************************************************/
+.flex-container {
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.flex-container-2 {
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.flex-container img {
+  width: 400px;
+}
+
+.flex-container-2 img {
+  width: 400px;
+  margin-top: 10px;
+}
+
+.flex-container>div {
+  padding: 10px;
+}
+
+.flex-container-2>div {
+  padding: 10px;
+}
+
+.flex-container h3 {
+  font-size: 2rem;
+}
+
+.flex-container-2 h3 {
+  font-size: 2rem;
+}
+
+.web_design h3 {
+  padding-top: 3.5rem;
+}
+
+.CERTIFICATION {
+  color:rgb(255, 168, 87);
+  font-family: 'Montserrat', sans-serif;
+  margin: 4rem 0;
+  font-size: 4rem;
+}
+
+.bottom {
+  background-color: rgb(206, 222, 221, 0.5);
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 2rem;
+  padding-bottom: -2rem;
+  padding-top: 1.5rem;
+}
+
+a {
+  color: rgb(255, 123, 0);
+  margin: 0 30px;
+  text-decoration: none;
+  font-size: 20px;
+}
